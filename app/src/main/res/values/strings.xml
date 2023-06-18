@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Loudness Meter</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="loudness_placeholder">-</string>
+    <string name="loudness">Loudness: %.2f dB</string>
+</resources>
